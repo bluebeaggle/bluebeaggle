@@ -1,12 +1,30 @@
+![header](https://capsule-render.vercel.app/api?&type=Waving&color=6FC7E1&height=300&section=header&text=Daeheon%20Yoo&fontSize=90&stroke=F4D47B&fontColor=3A4A51&rotate=10&animation=twinkling)
+
 
 ### Hi there 👋
-- 🌱 I’m currently learning Computer Science amd Deep Learning
+- 🌱 I’m currently learning Computer Science and Deep Learning
+- 🤔 I'm currently interesting in RaspberryPi, Autonomous Driving and AI
 - ✨ Stack : I've used at least once
-![Pyhton](https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white) ![tensorflow](https://img.shields.io/badge/Temsorflow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![pytorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white) ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white)
+![Pyhton](https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white)![tensorflow](https://img.shields.io/badge/Temsorflow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![pytorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white)![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white)  ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white)
 
 
-- 📫 How to reach me: [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white)](mailto:shew1903@gmail.com)
+- 📫 How to reach me :
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white)](mailto:shew1903@gmail.com)
 
+
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+
+
+
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbluebeaggle&count_bg=%2375A085&title_bg=%230693E7&icon=datadog.svg&icon_color=%230001FF&title=hits&edge_flat=true)
 
 
 
