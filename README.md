@@ -2,7 +2,8 @@
 
 
 ### Hi there 👋
-- 🌱 I’m currently learning Computer Science and Deep Learning
+##### I majored in automobile engineering and computer science 😄
+- 🌱 I’m currently learning Machine Learning and Deep Learning
 - 🤔 I'm currently interesting in RaspberryPi, Autonomous Driving and AI
 - ✨ Stack : I've used at least once   
 ![Pyhton](https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white&nbsp) ![tensorflow](https://img.shields.io/badge/Temsorflow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white&nbsp) ![pytorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white&nbsp) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white&nbsp)
@@ -30,6 +31,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 
-- 😄 Pronouns: ...
+-  Pronouns: ...
 -  Fun fact: ...
 -->
