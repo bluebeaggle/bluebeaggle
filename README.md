@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?&type=Waving&color=6FC7E1&height=300&section=header&text=Daeheon%20Yoo&fontSize=90&stroke=F4D47B&fontColor=3A4A51&rotate=10&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?&type=Waving&color=6FC7E1&height=300&section=header&text=Daeheon%20Yoo&fontSize=90&stroke=F4D47B&fontColor=3A4A51&animation=twinkling)
 
 
 ### Hi all 👋
