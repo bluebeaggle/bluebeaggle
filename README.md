@@ -6,7 +6,7 @@
 - 📝 I’m currently learning Machine Learning and Deep Learning
 - 🤔 I'm currently interesting in RaspberryPi, Autonomous Driving and AI
 - ✨ Stack : I've used at least once   
-![Pyhton](https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white&nbsp) ![tensorflow](https://img.shields.io/badge/Temsorflow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white&nbsp) ![pytorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white&nbsp) !
+![Pyhton](https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white&nbsp) ![tensorflow](https://img.shields.io/badge/Temsorflow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white&nbsp) ![pytorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white&nbsp) 
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white&nbsp) ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white&nbsp)  ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white&nbsp)
 
 
@@ -23,7 +23,7 @@
 <!--
 **bluebeaggle/bluebeaggle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-[Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white&nbsp)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white&nbsp)
 
 Here are some ideas to get you started:
 
